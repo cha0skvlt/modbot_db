@@ -4,7 +4,6 @@ from typing import Any, List, Optional
 
 import asyncpg
 
-
 log = logging.getLogger(__name__)
 
 
